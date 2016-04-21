@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Communications/radome-16m.xml -75.14037 68.898438 144.52 0
+OBJECT_SHARED Models/Communications/radome-16m.xml -75.13986 68.89837 148.39 0
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -75.138858 68.898984 147.58 55
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.210258 68.904348 -76.16 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.20984 68.904209 -75.86 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.143229 68.900815 53.88 0
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -75.143224 68.900639 54.13 0
